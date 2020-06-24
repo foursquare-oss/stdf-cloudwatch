@@ -22,8 +22,8 @@ Terraform module to standup a lambda that converts a random cloudwatch output to
         },
         "urls": [
             {
-            "Text": "View policy",
-            "Url": "https://examlpe.com"
+            "text": "View policy",
+            "url": "https://examlpe.com"
             },
         ...
     ]
